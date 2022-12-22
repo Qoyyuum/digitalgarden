@@ -8,6 +8,7 @@
 But this is more than just another blog. It's a digital garden. A second brain with all of the good stuff of interconnected and related notes that I've learnt along the way and see if I can progress well enough to have built, failed and tried a different approach.
 
 [[DigitalGarden/Serverless Cloud\|Serverless Cloud]]
+[[DigitalGarden/E-Commerce/Headless ECommerce as a Service\|Headless ECommerce as a Service]]
 
 For anyone wanting to start an online business with as little bootstrapped cash as possible, I have written a small guide on it here:
 
